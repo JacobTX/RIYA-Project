@@ -1,6 +1,6 @@
 **EXPERIMENT 2 SIMULATION RESULTS**
 
-This folder contains the simulation results for Experiment 2. Each subfolder is associated with the following settings\
+This folder contains the simulation results for Experiment 2. Each subfolder is associated with the following settings.
 
 **NOMENCLATURE**
 
