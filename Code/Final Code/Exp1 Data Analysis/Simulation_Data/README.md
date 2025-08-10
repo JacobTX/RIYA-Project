@@ -12,7 +12,9 @@ This folder contains the simulation data for Experiment 1. Each subfolder is ass
 **SUB-FOLDERS**
 
 
-try1) m = 11.2 kg, c = 0.5 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.0, Fn = mg
-try2) m = 11.2 kg, c = 1e-4 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.04, Fn = mg
-try3) m = 11.2 kg, c = 0.2 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.03, Fn = mg
+try1: m = 11.2 kg, c = 0.5 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.0, Fn = mg
+
+try2: m = 11.2 kg, c = 1e-4 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.04, Fn = mg
+
+try3: m = 11.2 kg, c = 0.2 Ns/mm, h1/t = h2/t = 1.41, scale = 1.05, mu = 0.03, Fn = mg
 
