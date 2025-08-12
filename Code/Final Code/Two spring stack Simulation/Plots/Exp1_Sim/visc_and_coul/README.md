@@ -1,6 +1,6 @@
 **EXPERIMENT 1 SIMULATION RESULTS - MIXED DAMPING**
 
-This folder contains the simulation results for Experiment 1 using Mixed damping. Each subfolder is associated with the following settings\
+This folder contains the simulation results for Experiment 1 using Mixed damping. Each subfolder is associated with the following settings.
 
 **NOMENCLATURE**
 
